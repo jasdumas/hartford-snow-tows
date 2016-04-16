@@ -1,7 +1,7 @@
 ---
-title: "EDA of Towed Cars in Hartford from Februray 2nd 2015"
+title: "EDA of Towed Cars in Hartford from Winter 2015"
 author: "Jasmine Dumas"
-date: "RMarkdown: April 16, 2016; Coded: Februray 2015"
+date: "RMarkdown: April 16, 2016; Coded: February 2015"
 output: html_document
 ---
 
